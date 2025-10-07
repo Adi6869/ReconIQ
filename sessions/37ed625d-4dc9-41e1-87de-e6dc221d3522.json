@@ -1,0 +1,19 @@
+{
+  "session_id": "37ed625d-4dc9-41e1-87de-e6dc221d3522",
+  "start_time": "2025-10-06T15:54:52.237149",
+  "last_activity": "2025-10-06T15:54:52.251223",
+  "messages": [
+    {
+      "timestamp": "2025-10-06T15:54:52.237109",
+      "type": "user_query",
+      "content": "Probe HTTP services on discovered subdomains with httpx",
+      "results": null
+    },
+    {
+      "timestamp": "2025-10-06T15:54:52.239043",
+      "type": "system_response",
+      "content": "Please specify the target domain(s) for the HTTP probing.",
+      "results": null
+    }
+  ]
+}

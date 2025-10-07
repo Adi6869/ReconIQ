@@ -1,0 +1,19 @@
+{
+  "session_id": "5cdbd904-752d-4d40-a208-93989ad88dc1",
+  "start_time": "2025-10-06T13:01:36.382437",
+  "last_activity": "2025-10-06T13:01:36.393712",
+  "messages": [
+    {
+      "timestamp": "2025-10-06T13:01:36.382389",
+      "type": "user_query",
+      "content": "Hello ReconIQ",
+      "results": null
+    },
+    {
+      "timestamp": "2025-10-06T13:01:36.384032",
+      "type": "system_response",
+      "content": "Hello! How can I help you with cybersecurity reconnaissance today? Please let me know what you'd like to scan or what kind of information you are looking for.",
+      "results": null
+    }
+  ]
+}

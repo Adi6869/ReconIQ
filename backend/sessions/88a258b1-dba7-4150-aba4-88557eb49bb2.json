@@ -1,0 +1,25 @@
+{
+  "session_id": "88a258b1-dba7-4150-aba4-88557eb49bb2",
+  "start_time": "2025-10-05T14:37:19.485183",
+  "last_activity": "2025-10-05T14:37:19.657627",
+  "messages": [
+    {
+      "timestamp": "2025-10-05T14:37:19.485141",
+      "type": "user_query",
+      "content": "Find subdomains for example.com",
+      "results": null
+    },
+    {
+      "timestamp": "2025-10-05T14:37:19.488695",
+      "type": "tool_execution",
+      "content": "Executed subfinder, amass on example.com",
+      "results": null
+    },
+    {
+      "timestamp": "2025-10-05T14:37:19.647251",
+      "type": "system_response",
+      "content": "Found 0 results from subfinder, amass. The reconnaissance completed successfully.",
+      "results": null
+    }
+  ]
+}

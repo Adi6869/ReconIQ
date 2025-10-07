@@ -1,0 +1,13 @@
+{
+  "session_id": "3a666c96-8bc7-4cde-a8e4-8f1128a29a2d",
+  "start_time": "2025-10-06T16:34:05.726210",
+  "last_activity": "2025-10-06T16:34:05.726312",
+  "messages": [
+    {
+      "timestamp": "2025-10-06T16:34:05.726152",
+      "type": "user_query",
+      "content": "Hey",
+      "results": null
+    }
+  ]
+}

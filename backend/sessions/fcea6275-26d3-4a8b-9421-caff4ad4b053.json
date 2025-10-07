@@ -1,0 +1,19 @@
+{
+  "session_id": "fcea6275-26d3-4a8b-9421-caff4ad4b053",
+  "start_time": "2025-10-06T12:32:58.336125",
+  "last_activity": "2025-10-06T12:32:58.351022",
+  "messages": [
+    {
+      "timestamp": "2025-10-06T12:32:58.336046",
+      "type": "user_query",
+      "content": "Hello ReconIQ",
+      "results": null
+    },
+    {
+      "timestamp": "2025-10-06T12:32:58.338479",
+      "type": "system_response",
+      "content": "Hello! How can I assist you with cybersecurity reconnaissance today? Please let me know what you'd like to do (e.g., enumerate subdomains, discover URLs, probe HTTP, or a full reconnaissance scan).",
+      "results": null
+    }
+  ]
+}

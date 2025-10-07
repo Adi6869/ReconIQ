@@ -1,0 +1,19 @@
+{
+  "session_id": "2cdead0e-230f-4def-a4ec-6c4180476453",
+  "start_time": "2025-10-06T15:51:35.900464",
+  "last_activity": "2025-10-06T15:51:35.910735",
+  "messages": [
+    {
+      "timestamp": "2025-10-06T15:51:35.900411",
+      "type": "user_query",
+      "content": "Hello ReconIQ",
+      "results": null
+    },
+    {
+      "timestamp": "2025-10-06T15:51:35.901743",
+      "type": "system_response",
+      "content": "Hello! How can I assist you with your reconnaissance tasks today?",
+      "results": null
+    }
+  ]
+}

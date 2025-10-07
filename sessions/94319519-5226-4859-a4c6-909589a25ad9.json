@@ -1,0 +1,19 @@
+{
+  "session_id": "94319519-5226-4859-a4c6-909589a25ad9",
+  "start_time": "2025-10-06T17:25:39.824585",
+  "last_activity": "2025-10-06T17:25:39.835954",
+  "messages": [
+    {
+      "timestamp": "2025-10-06T17:25:39.817898",
+      "type": "user_query",
+      "content": "Hello",
+      "results": null
+    },
+    {
+      "timestamp": "2025-10-06T17:25:39.826412",
+      "type": "system_response",
+      "content": "Please specify the target domain you want to scan for subdomains (e.g., 'Find subdomains for google.com').\n\n**Examples:**\n\u2022 Find subdomains for google.com\n\u2022 Enumerate subdomains on tesla.com\n\u2022 Discover assets for microsoft.com",
+      "results": null
+    }
+  ]
+}
